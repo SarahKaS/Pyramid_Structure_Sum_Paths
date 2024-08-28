@@ -44,8 +44,9 @@ Note that the number of levels can vary from input to input.
 
 
 
-The second part of this code will return all the sums with the number of times it appears,
-sorted according to count.
+
+## The second part of this code will return all the sums with the number of times it appears,
+## sorted according to count.
 
 
 For example:
